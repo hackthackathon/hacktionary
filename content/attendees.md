@@ -1,4 +1,4 @@
-Title: Hackathon
+Title: (Hackathon) Attendees
 Date: 10-7-2022
 Category: Definition
 ## Defition
