@@ -1,9 +1,11 @@
-Title: Hackathon
+Title: Successful Failure
 Date: 10-7-2022
 Category: Definition
 
-## Synonyms
+## Synonyms and Related Terms
 
-## Related Terms 
+Productive Failure, Learning experience
 
 ## Defition
+
+A project/team that failed, but in a way where the participants all learned something useful and are happy about that. E.g., it turned out not to be worth pursuing, even though it seemed good at the start.

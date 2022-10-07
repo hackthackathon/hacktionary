@@ -2,11 +2,12 @@ Title: Hackathon
 Date: 10-7-2022
 Category: Definition
 
-## Synonyms
+## Synonyms and Related Terms
 
 (Unconference), Hack Day, Hack Week, Codeathon, Hack Fest, Code Fest, (Something) Sprint, Data Fest, Datathon, Makeathon, Innovation Lab, Dev camps, Startup Weekend, Garage, Hack Hour, Open Innovation Competition, Datapalooza, Hackapalooza, Innovation Summit
 
 ## Defition
+Authoritative definition in a soon-to-be-published article.  Will add a link when it is available.
 
 We define hackathons as time-bounded participant-driven events that are organized to foster specific goals or objectives. 
 The scaffolding of each event is planned by a team of organizers to support its goals or objectives. 

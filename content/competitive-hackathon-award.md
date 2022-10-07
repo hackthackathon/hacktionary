@@ -1,9 +1,10 @@
-Title: Hackathon
+Title: Competitive Hackathon Award
 Date: 10-7-2022
 Category: Definition
 
-## Synonyms
-
-## Related Terms 
+## Synonyms and Related Terms
+Prize, Rewards, Trophies, Certificates
 
 ## Defition
+
+Something a participant gets for being “best” at a hackathon - emphasis is on competition.
