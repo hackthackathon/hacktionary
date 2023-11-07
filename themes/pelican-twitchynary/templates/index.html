@@ -15,7 +15,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1>{{ SITENAME }}</h1>
-                        <p>{{ SITESUBTITLE }}</p>
+                        <!--<p>{{ SITESUBTITLE }}</p>-->
+                        {% if SITELOGO %}<p><img src="{{ SITEURL }}/{{ SITELOGO }}" width="70%" alt="Sitelogo"/></p>{% endif %}
                     </div>
                 </div>
             </div>

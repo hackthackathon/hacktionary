@@ -38,6 +38,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
+
 #Theme-related elements
 
 THEME = 'themes/pelican-twitchynary'
@@ -49,3 +50,4 @@ RECENT_POST_COUNT = 1000
 SOCIAL = (('github', 'https://github.com/hackthackathon'), ('Discord', 'https://discord.gg/45ReWfUR'))
 SITELOGO = 'images/hth3_background.jpg'
 SITELOGO_SIZE = '50px'
+CUSTOM_CSS = 'theme/css/hacktionary.css'
