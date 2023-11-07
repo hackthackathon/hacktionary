@@ -6,6 +6,6 @@ Category: Definition
 
 Artifact, Artefact, Prototype
 
-## Defition
+## Definition
 
 Outcomes from a Hackathon that are concrete and produced by participants as the result of the work done during the hackathon.  Includes things like demos from the hackathon, physical prototypes, apps, videos, scientific result, etc.

@@ -6,6 +6,6 @@ Category: Definition
 
 Rewards, Trophies, Certificates, Badges
 
-## Defition
+## Definition
 
 Something a participant gets for being at a hackathon - everyone can get an award.

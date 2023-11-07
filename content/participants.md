@@ -6,7 +6,7 @@ Category: Definition
 
 Hackers, Hackathoners
 
-## Defition
+## Definition
 
 The people actively doing hacks at a Hackathon.
 

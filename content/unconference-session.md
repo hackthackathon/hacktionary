@@ -6,7 +6,7 @@ Category: Definition
 
 Breakout Session 
 
-## Defition
+## Definition
 
 A small discussion session at a (un)conference where the participants drive the discussion and shape the agenda, as opposed to a Breakout Session, where the organizers may be the creators of the agenda.
 

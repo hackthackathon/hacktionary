@@ -6,7 +6,7 @@ Category: Definition
 
 (Unconference), Hack Day, Hack Week, Codeathon, Hack Fest, Code Fest, (Something) Sprint, Data Fest, Datathon, Makeathon, Innovation Lab, Dev camps, Startup Weekend, Garage, Hack Hour, Open Innovation Competition, Datapalooza, Hackapalooza, Innovation Summit
 
-## Defition
+## Definition
 Authoritative definition in a soon-to-be-published article.  Will add a link when it is available.
 
 We define hackathons as time-bounded participant-driven events that are organized to foster specific goals or objectives. 

@@ -4,4 +4,4 @@ Category:
 
 ## Synonyms and Related Terms
 
-## Defition
+## Definition

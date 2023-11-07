@@ -5,7 +5,7 @@ Category: Definition
 ## Synonyms and Related Terms
 Team Roles
 
-## Defition
+## Definition
 
 The responsibility hackathon participant members take on in their team. E.g. “code developer”, “hardware designer”, “UX designer”, specialist in a particular data set.
 s

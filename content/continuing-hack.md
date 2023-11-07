@@ -6,6 +6,6 @@ Category: Definition
 
 Post-hackathon team, Post-hackathon project, Early-stage Startup Teams, Prototype-phase startup team, Pre-product team, Iterative Projects
 
-## Defition
+## Definition
 
 A project/team that did not fail, and may want to continue in some fashion. Includes scientific papers that are written after the hackathon, startup companies founded based on a hackathon project, repeat-hackers who go back to a hackathon.

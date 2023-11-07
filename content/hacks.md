@@ -6,6 +6,6 @@ Category: Definition
 
 Project, Thing I’m Doing At The Hackathon
 
-## Defition
+## Definition
 
 The thing (for example, a project, idea, or concept development) a participant is doing at a hackathon.
